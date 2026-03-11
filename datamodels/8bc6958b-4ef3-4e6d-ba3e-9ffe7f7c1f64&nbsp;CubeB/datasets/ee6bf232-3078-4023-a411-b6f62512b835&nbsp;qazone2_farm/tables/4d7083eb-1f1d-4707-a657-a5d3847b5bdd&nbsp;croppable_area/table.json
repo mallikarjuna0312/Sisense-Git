@@ -8,7 +8,7 @@
             "id": "id",
             "indexed": true,
             "isUpsertBy": false,
-            "name": "id",
+            "name": "id_name",
             "oid": "4bc1f518-5377-4477-952c-012d54559dec",
             "precision": 19,
             "scale": 0,
