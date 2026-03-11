@@ -1,0 +1,12 @@
+{
+    "connection": "./connection.json",
+    "database": "cropinv2",
+    "elasticube": "1a38b5a3-c55b-40e2-b7a9-cc3e674eb98b",
+    "oid": "9a5b44bb-978f-4629-9bb8-59a352499000",
+    "schemaName": "qazone2_farm",
+    "tables": [
+        "./48aeec28-5b00-4869-b941-33f4b05c0ecb/table.json",
+        "./e325b540-d53c-4dee-a9bf-7a72ef0e128d/table.json"
+    ],
+    "type": "extract"
+}

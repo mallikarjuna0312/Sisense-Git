@@ -1,0 +1,10 @@
+{
+    "description": "",
+    "name": "PosterSQL QA Connector - 1",
+    "oid": "74e0b04b-1b3a-4c82-aac6-eb6e7960447f",
+    "provider": "PostgreSQL",
+    "supportedModelTypes": [
+        "LIVE",
+        "EXTRACT"
+    ]
+}
