@@ -1,0 +1,44 @@
+{
+    "analyticalEngine": {
+        "queryAeMode": "AE_ONLY"
+    },
+    "buildDestination": {
+        "database": null,
+        "destination": "elasticube",
+        "queryTimeout": null,
+        "resultLimit": null
+    },
+    "datamodelId": "8bc6958b-4ef3-4e6d-ba3e-9ffe7f7c1f64",
+    "datasets": [
+        "./ee6bf232-3078-4023-a411-b6f62512b835/dataset.json"
+    ],
+    "dependencies": {
+        "perspectives": [
+            "./8bc6958b-4ef3-4e6d-ba3e-9ffe7f7c1f64/perspective.json"
+        ]
+    },
+    "experiments": {
+    },
+    "fiscal": "system",
+    "hierarchies": [
+    ],
+    "modelStatistics": {
+        "allTablesPerCollection": true,
+        "enableModelStatistics": true,
+        "maxTablesPerCollection": 10
+    },
+    "oid": "8bc6958b-4ef3-4e6d-ba3e-9ffe7f7c1f64",
+    "relationType": "direct",
+    "relations": "./relations.json",
+    "relationsTables": [
+        {
+            "directionType": "bidirectional",
+            "firstTable": "4d7083eb-1f1d-4707-a657-a5d3847b5bdd",
+            "joinType": "default",
+            "secondTable": "b5159fcd-bddb-4c18-a8de-4d249c828b22"
+        }
+    ],
+    "schemaId": null,
+    "title": "CubeB",
+    "type": "extract"
+}
